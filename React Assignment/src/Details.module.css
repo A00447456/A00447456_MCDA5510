@@ -1,0 +1,27 @@
+.div {
+    background-color: bisque;
+}
+.mainContainer{
+    padding-top: 40px;
+    padding-left: 30px;
+    justify-content: center;
+}
+.button{
+    border: none;
+    background: none;
+    background-color: antiquewhite;
+}
+.jumbotron{
+    height: auto;
+    width: auto;
+    padding-top: 20px;
+}
+.list{
+    text-align: left;
+    text-indent: 10px;
+    list-style-type: none;
+}
+.image{
+    max-width: 300px;
+    max-height: 300px;
+}
